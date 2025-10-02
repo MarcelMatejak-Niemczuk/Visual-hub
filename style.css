@@ -1,0 +1,81 @@
+#Zad1 {
+    display: flex;
+}
+
+#a {
+    background-color: brown;
+    border: 2px black;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    margin-left: 47px;
+    margin-right: 27px;
+}
+
+#b {
+    background-color: green;
+    border: 2px black;
+    margin-top: 67px;
+    margin-bottom: 45px;
+    margin-left: 19px;
+    margin-right: 32px;
+}
+
+#c {
+    background-color: blue;
+    border: 2px black;
+    margin-top: 21px;
+    margin-bottom: 37px;
+    margin-left: 41px;
+    margin-right: 67px;
+}
+
+#Zad2 {
+    display: flex;
+}
+
+#d {
+    height: 200px;
+    width: 100px;
+    background-color: aqua;
+    margin: 40px;
+}
+
+#e {
+    height: 200px;
+    width: 100px;
+    background-color: blanchedalmond;
+    margin: 20px 60px;
+}
+
+#f {
+    height: 200px;
+    width: 100px;
+    background-color: cadetblue;
+    margin: 10px 50px 30px;
+}
+
+#g {
+    height: 200px;
+    width: 100px;
+    background-color: darkorchid;
+    margin: 5px 20px 10px 40px;
+}
+
+#Zad3 {
+    display: flex;
+}
+
+#h {
+    height: 300px;
+    width: 100px;
+    background-color: chocolate;
+    margin-top: -30px;
+    
+}
+
+#Zad4 {
+    width: 300px;
+    background-color: hotpink;
+    margin: auto;
+}
+    
